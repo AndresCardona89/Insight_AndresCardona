@@ -5,7 +5,7 @@ Coding challenge_Insight_Andres Cardona
 
 DESCRIPTION
 
-This code reads payments from one .txt file in CSV format.
+This code reads payments from two .txt file in CSV format.
 It reads the batch_payment.txt file to create the initial state of the graph and then iterates throuh each payment of strem_payment.txt verifying each payment according to different features.
 
 REQUIREMENTS
